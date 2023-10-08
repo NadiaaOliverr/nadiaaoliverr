@@ -1,16 +1,34 @@
-### Hi there 👋
+### Olá! Eu sou a Nádia 👋
 
-<!--
-**NadiaaOliverr/nadiaaoliverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Bem vindo(a) ao meu perfil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤿 **Desenvolvedora** de Software há mais de 4 anos
+- ⚡ Graduada em Sistemas de Informação
+- 🔭 Atualmente trabalho na [Alura Oline](https://www.alura.com.br/) como **Líder Técnica** em um time de jovens talentos.
+- 🌱 Sou especialista em Python, mas **multidiplinar e autodidata** para navegar em diversas tecnologias.
+
+##### Conheça mais sobre mim
+
+Sou uma desenvolvedora de software com mais de 4 anos de experiência e ao longo da minha trajetória já naveguei por diversas tecnologias, como HTML, CSS, Java Script, VueJS, Angular, PHP, Laravel, Java, Python, Flask, Django e diversas outras. Prefiro backend, mas, também posso atuar como fullstack. 
+
+Na minha carreira, também tive a oportunidade de atuar como liderança técnica, sendo referência técnica em tecnologia para um time de jovens talentos que navegam em diversas linguagens. Sou autodidata e extremamente comprometida com qualquer desafio que me é passado. No meu Github você encontrará projetos variados, porém, muitos deles terão foco na minha especialidade: o Python.
+
+<!-- ##### Habilidades
+
+- x
+- x
+- x
+- x
+- x
+
+##### Últimos textos no Medium
+- x
+- x
+- x
+
+##### Você pode me encontrar em
+- x
+- x
+- x
+- x -->
