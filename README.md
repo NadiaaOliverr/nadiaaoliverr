@@ -9,11 +9,11 @@
 - 🔭 Atualmente trabalho na [Alura Oline](https://www.alura.com.br/) como **Líder Técnica** em um time de jovens talentos.
 - 🌱 Sou **especialista em Python**
 
-### Conheça mais sobre mim
+### :bulb: Conheça mais sobre mim
 
 Com mais de **quatro anos de experiência** como desenvolvedora de software, trilhei um caminho diversificado, explorando **diversas tecnologias**, até me consolidar como especialista em Python. Além das minhas habilidades técnicas, desempenho um papel de liderança, sendo referência técnica para uma equipe de jovens talentos, que navegam em várias linguagens de programação. Sou movida pela **autodisciplina** e dedicada a enfrentar qualquer desafio que se apresente no meu caminho.
 
-###  Tecnologias 
+### :rocket: Tecnologias 
 <p align="left"> 
         <a href="https://www.w3.org/html/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
