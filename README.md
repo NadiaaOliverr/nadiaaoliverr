@@ -6,7 +6,7 @@
 
 - 🤿 **Desenvolvedora** de Software há mais de 4 anos
 - ⚡ **Graduada** em Sistemas de Informação
-- 🔭 Atualmente trabalho na [Alura Oline](https://www.alura.com.br/) como **Líder Técnica** em um time de jovens talentos.
+- 🔭 Atualmente trabalho na [Alura Oline](https://www.alura.com.br/) como **Líder Técnica** em um time de jovens talentos
 - 🌱 Sou **especialista em Python**
 
 ### :bulb: Conheça mais sobre mim
