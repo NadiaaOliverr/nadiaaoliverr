@@ -1,5 +1,9 @@
 ### Olá, bem vindo(a)!
 
+[<img src="https://img.shields.io/badge/nadiaaoliverr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nadiaaoliverr/)
+[<img src="https://img.shields.io/badge/nadiaaoliverr-000000?style=flat-square&logo=Medium&logoColor=white" />](https://medium.com/@nadiaaoliverr)
+[<img src="https://img.shields.io/badge/nadiaaoliverr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:nadiaaoliverr@gmail.com)
+
 - 🤿 **Desenvolvedora** de Software há mais de 4 anos
 - ⚡ **Graduada** em Sistemas de Informação
 - 🔭 Atualmente trabalho na [Alura Oline](https://www.alura.com.br/) como **Líder Técnica** em um time de jovens talentos.
@@ -7,7 +11,7 @@
 
 ### Conheça mais sobre mim
 
-Com mais de quatro anos de experiência como desenvolvedora de software, trilhei um caminho diversificado, explorando diversas tecnologias, até me consolidar como especialista em Python. Além das minhas habilidades técnicas, desempenho um papel de liderança, sendo referência técnica para uma equipe de jovens talentos, que navegam em várias linguagens de programação. Sou movida pela autodisciplina e dedicada a enfrentar qualquer desafio que se apresente no meu caminho.
+Com mais de **quatro anos de experiência** como desenvolvedora de software, trilhei um caminho diversificado, explorando **diversas tecnologias**, até me consolidar como especialista em Python. Além das minhas habilidades técnicas, desempenho um papel de liderança, sendo referência técnica para uma equipe de jovens talentos, que navegam em várias linguagens de programação. Sou movida pela **autodisciplina** e dedicada a enfrentar qualquer desafio que se apresente no meu caminho.
 
 ###  Tecnologias 
 <p align="left"> 
