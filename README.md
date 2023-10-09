@@ -102,7 +102,7 @@ Com mais de **quatro anos de experiência** como desenvolvedora de software, tri
  </p>
 
 
-### ✍️ Últimos posts no Medium 
+### ✍️ Últimos artigos
 
 - [Python Tips: Sublinhados em Números](https://medium.com/@nadiaaoliverr/python-tips-sublinhados-em-n%C3%BAmeros-3b754a6e21af)
 - [Operadores ternários em Python](https://medium.com/@nadiaaoliverr/operadores-tern%C3%A1rios-em-python-1dbb4880de7b)
